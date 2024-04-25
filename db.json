@@ -1,436 +1,380 @@
 [
-    {
-       "id": 1,
-       "badge": {
-          "title": "Sale",
-          "bg": "sale"
-       },
-       "image": "./images/product-1.jpg",
-       "name": "Jet Black",
-       "section": "Hair Extensions",
-       "price": 135,
-       "description": "Lorem ipsum",
-       "stars": 0,
-       "category": 1
-    },
-    {
-       "id": 2,
-       "badge": {
-          "title": "",
-          "bg": ""
-       },
-       "image": "./images/product-2.jpg",
-       "name": "Off Black",
-       "section": "Hair Extensions",
-       "price": 150,
-       "description": "Lorem ipsum",
-       "stars": 5,
-       "category": 1
-    },
-    {
-       "id": 3,
-       "badge": {
-          "title": "",
-          "bg": ""
-       },
-       "image": "./images/product-3.jpg",
-       "name": "Dark Brown",
-       "section": "Hair Extensions",
-       "price": 150,
-       "description": "Lorem ipsum",
-       "stars": 4,
-       "category": 1
-    },
-    {
-       "id": 4,
-       "badge": {
-          "title": "",
-          "bg": ""
-       },
-       "image": "./images/product-4.jpg",
-       "name": "Dark Chestnut Brown",
-       "section": "Hair Extensions",
-       "price": 150,
-       "description": "Lorem ipsum",
-       "stars": 0,
-       "category": 1
-    },
-    {
-       "id": 5,
-       "badge": {
-          "title": "Best Seller",
-          "bg": "bestseller"
-       },
-       "image": "./images/product-5.jpg",
-       "name": "Aubrun",
-       "section": "Hair Extensions",
-       "price": 150,
-       "description": "Lorem ipsum",
-       "stars": 3,
-       "category": 1
-    },
-    {
-       "id": 6,
-       "badge": {
-          "title": "",
-          "bg": ""
-       },
-       "image": "./images/product-6.jpg",
-       "name": "Amber Blonde",
-       "section": "Hair Extensions",
-       "price": 150,
-       "description": "Lorem ipsum",
-       "stars": 0,
-       "category": 1
-    },
-    {
-       "id": 7,
-       "badge": {
-          "title": "Sale",
-          "bg": "sale"
-       },
-       "image": "./images/product-7.jpg",
-       "name": "Honey Blonde",
-       "section": "Hair Extensions",
-       "price": 150,
-       "description": "Lorem ipsum",
-       "stars": 4,
-       "category": 1
-    },
-    {
-       "id": 8,
-       "badge": {
-          "title": "New",
-          "bg": "new"
-       },
-       "image": "./images/product-8.jpg",
-       "name": "Strawberry Blonde",
-       "section": "Hair Extensions",
-       "price": 150,
-       "description": "Lorem ipsum",
-       "stars": 0,
-       "category": 1
-    },
-    {
-       "id": 9,
-       "badge": {
-          "title": "",
-          "bg": ""
-       },
-       "image": "./images/product-9.jpg",
-       "name": "Golden Blonde",
-       "section": "Hair Extensions",
-       "price": 150,
-       "description": "Lorem ipsum",
-       "stars": 4,
-       "category": 1
-    },
-    {
-       "id": 10,
-       "badge": {
-          "title": "",
-          "bg": ""
-       },
-       "image": "./images/product-10.jpg",
-       "name": "White Blonde",
-       "section": "Hair Extensions",
-       "price": 150,
-       "description": "Lorem ipsum",
-       "stars": 0,
-       "category": 1
-    },
-    {
-       "id": 11,
-       "badge": {
-          "title": "",
-          "bg": ""
-       },
-       "image": "/images/product-11.jpg",
-       "name": "Crow Lashes - Natural Volume",
-       "section": "Lashes",
-       "price": 20,
-       "description": "Lorem ipsum",
-       "stars": 4,
-       "category": 2
-    },
-    {
-       "id": 12,
-       "badge": {
-          "title": "",
-          "bg": ""
-       },
-       "image": "/images/product-12.jpg",
-       "name": "Crow Lashes - Full Volume",
-       "section": "Lashes",
-       "price": 25,
-       "description": "Lorem ipsum",
-       "stars": 4,
-       "category": 2
-    },
-    {
-       "id": 13,
-       "badge": {
-          "title": "",
-          "bg": ""
-       },
-       "image": "/images/product-13.jpg",
-       "name": "Peacock Lashes - Natural Volume",
-       "section": "Lashes",
-       "price": 20,
-       "description": "Lorem ipsum",
-       "stars": 4,
-       "category": 2
-    },
-    {
-       "id": 14,
-       "badge": {
-          "title": "Best Seller",
-          "bg": "bestseller"
-       },
-       "image": "/images/product-14.jpg",
-       "name": "Peacock Lashes - Full Volume",
-       "section": "Lashes",
-       "price": 25,
-       "description": "Lorem ipsum",
-       "stars": 4,
-       "category": 2
-    },
-    {
-       "id": 15,
-       "badge": {
-          "title": "",
-          "bg": ""
-       },
-       "image": "/images/product-15.jpg",
-       "name": "Swan Lashes - Natural Volume",
-       "section": "Lashes",
-       "price": 20,
-       "description": "Lorem ipsum",
-       "stars": 5,
-       "category": 2
-    },
-    {
-       "id": 16,
-       "badge": {
-          "title": "New",
-          "bg": "new"
-       },
-       "image": "/images/product-16.jpg",
-       "name": "Swan Lashes - Full Volume",
-       "section": "Lashes",
-       "price": 25,
-       "description": "Lorem ipsum",
-       "stars": 4,
-       "category": 2
-    },
-    {
-       "id": 17,
-       "badge": {
-          "title": "",
-          "bg": ""
-       },
-       "image": "/images/product-17.jpg",
-       "name": "Princess Lashes - Natural Volume",
-       "section": "Lashes",
-       "price": 25,
-       "description": "Lorem ipsum",
-       "stars": 5,
-       "category": 2
-    },
-    {
-       "id": 24,
-       "badge": {
-          "title": "",
-          "bg": ""
-       },
-       "image": "/images/product-24.jpg",
-       "name": "Princess Lashes - Full Volume",
-       "section": "Lashes",
-       "price": 25,
-       "description": "Lorem ipsum",
-       "stars": 4,
-       "category": 2
-    },
-    {
-       "id": 18,
-       "badge": {
-          "title": "Sale",
-          "bg": "sale"
-       },
-       "image": "/images/product-18.jpg",
-       "name": "Queen Lashes - Natural Volume",
-       "section": "Lashes",
-       "price": 18,
-       "description": "Lorem ipsum",
-       "stars": 4,
-       "category": 2
-    },
-    {
-       "id": 19,
-       "badge": {
-          "title": "",
-          "bg": ""
-       },
-       "image": "/images/product-19.jpg",
-       "name": "Queen Lashes - Full Volume",
-       "section": "Lashes",
-       "price": 25,
-       "description": "Lorem ipsum",
-       "stars": 0,
-       "category": 2
-    },
-    {
-       "id": 20,
-       "badge": {
-          "title": "Best Seller",
-          "bg": "bestseller"
-       },
-       "image": "/images/product-20.jpg",
-       "name": "Drama Queen - Natural Lashes",
-       "section": "Lashes",
-       "price": 20,
-       "description": "Lorem ipsum",
-       "stars": 5,
-       "category": 2
-    },
-    {
-       "id": 21,
-       "badge": {
-          "title": "",
-          "bg": ""
-       },
-       "image": "/images/product-21.jpg",
-       "name": "Drama Queen - Full Lashes",
-       "section": "Lashes",
-       "price": 25,
-       "description": "Lorem ipsum",
-       "stars": 4,
-       "category": 2
-    },
-    {
-       "id": 22,
-       "badge": {
-          "title": "",
-          "bg": ""
-       },
-       "image": "/images/product-22.jpg",
-       "section": "Accessories",
-       "name": "Wooden Hair Brush",
-       "price": 12,
-       "description": "Lorem ipsum",
-       "stars": 0,
-       "category": 3
-    },
-    {
-       "id": 23,
-       "badge": {
-          "title": "Sale",
-          "bg": "sale"
-       },
-       "image": "/images/product-23.jpg",
-       "name": "Extension Release Liquid",
-       "section": "Accessories",
-       "price": 12,
-       "description": "Lorem ipsum",
-       "stars": 4,
-       "category": 3
-    },
-    {
-       "id": 24,
-       "badge": {
-          "title": "",
-          "bg": ""
-       },
-       "image": "/images/product-24.jpg",
-       "name": "White Lash Adhesive",
-       "section": "Accessories",
-       "price": 15,
-       "description": "Lorem ipsum",
-       "stars": 4,
-       "category": 3
-    },
-    {
-       "id": 25,
-       "badge": {
-          "title": "",
-          "bg": ""
-       },
-       "image": "/images/product-25.jpg",
-       "name": "Lash Scissors",
-       "section": "Accessories",
-       "price": 8,
-       "description": "Lorem ipsum",
-       "stars": 4,
-       "category": 3
-    },
-    {
-       "id": 26,
-       "badge": {
-          "title": "",
-          "bg": ""
-       },
-       "image": "/images/product-26.jpg",
-       "name": "Diva Lashes - 4 Pcs Set",
-       "section": "Accessories",
-       "price": 70,
-       "description": "Lorem ipsum",
-       "stars": 0,
-       "category": 3
-    },
-    {
-       "id": 27,
-       "badge": {
-          "title": "Best Seller",
-          "bg": "bestseller"
-       },
-       "image": "/images/product-27.jpg",
-       "name": "Diva Lashes - 2 Pcs Set",
-       "section": "Accessories",
-       "price": 70,
-       "description": "Lorem ipsum",
-       "stars": 4,
-       "category": 3
-    },
-    {
-       "id": 28,
-       "badge": {
-          "title": "",
-          "bg": ""
-       },
-       "image": "/images/product-28.jpg",
-       "name": "$25 Gift Card",
-       "section": "Accessories",
-       "price": 25,
-       "description": "Lorem ipsum",
-       "stars": 4,
-       "category": 3
-    },
-    {
-       "id": 29,
-       "badge": {
-          "title": "Best Seller",
-          "bg": "bestseller"
-       },
-       "image": "/images/product-29.jpg",
-       "name": "$50 Gift Card",
-       "section": "Accessories",
-       "price": 50,
-       "description": "Lorem ipsum",
-       "stars": 5,
-       "category": 3
-    },
-    {
-       "id": 30,
-       "badge": {
-          "title": "",
-          "bg": ""
-       },
-       "image": "/images/product-30.jpg",
-       "name": "$100 Gift Card",
-       "section": "Accessories",
-       "price": 100,
-       "description": "Lorem ipsum",
-       "stars": 0,
-       "category": 3
-    }
- ]
+   {
+      "id": 1,
+      "badge": {
+         "title": "Sale",
+         "bg": "sale"
+      },
+      "image": "./images/product-1.jpg",
+      "name": "Jet Black",
+      "section": "Hair Extensions",
+      "price": 135,
+      "description": "Lorem ipsum",
+      "stars": 0,
+      "category": 1
+   },
+   {
+      "id": 2,
+      "badge": {
+         "title": "",
+         "bg": ""
+      },
+      "image": "./images/product-2.jpg",
+      "name": "Off Black",
+      "section": "Hair Extensions",
+      "price": 150,
+      "description": "Lorem ipsum",
+      "stars": 5,
+      "category": 1
+   },
+   {
+      "id": 3,
+      "badge": {
+         "title": "",
+         "bg": ""
+      },
+      "image": "./images/product-3.jpg",
+      "name": "Dark Brown",
+      "section": "Hair Extensions",
+      "price": 150,
+      "description": "Lorem ipsum",
+      "stars": 4,
+      "category": 1
+   },
+   {
+      "id": 4,
+      "badge": {
+         "title": "",
+         "bg": ""
+      },
+      "image": "./images/product-4.jpg",
+      "name": "Dark Chestnut Brown",
+      "section": "Hair Extensions",
+      "price": 150,
+      "description": "Lorem ipsum",
+      "stars": 0,
+      "category": 1
+   },
+   {
+      "id": 5,
+      "badge": {
+         "title": "Best Seller",
+         "bg": "bestseller"
+      },
+      "image": "./images/product-5.jpg",
+      "name": "Aubrun",
+      "section": "Hair Extensions",
+      "price": 150,
+      "description": "Lorem ipsum",
+      "stars": 3,
+      "category": 1
+   },
+   {
+      "id": 6,
+      "badge": {
+         "title": "",
+         "bg": ""
+      },
+      "image": "./images/product-6.jpg",
+      "name": "Amber Blonde",
+      "section": "Hair Extensions",
+      "price": 150,
+      "description": "Lorem ipsum",
+      "stars": 0,
+      "category": 1
+   },
+   {
+      "id": 7,
+      "badge": {
+         "title": "Sale",
+         "bg": "sale"
+      },
+      "image": "./images/product-7.jpg",
+      "name": "Honey Blonde",
+      "section": "Hair Extensions",
+      "price": 150,
+      "description": "Lorem ipsum",
+      "stars": 4,
+      "category": 1
+   },
+   {
+      "id": 8,
+      "badge": {
+         "title": "New",
+         "bg": "new"
+      },
+      "image": "./images/product-8.jpg",
+      "name": "Strawberry Blonde",
+      "section": "Hair Extensions",
+      "price": 150,
+      "description": "Lorem ipsum",
+      "stars": 0,
+      "category": 1
+   },
+   {
+      "id": 9,
+      "badge": {
+         "title": "",
+         "bg": ""
+      },
+      "image": "./images/product-9.jpg",
+      "name": "Golden Blonde",
+      "section": "Hair Extensions",
+      "price": 150,
+      "description": "Lorem ipsum",
+      "stars": 4,
+      "category": 1
+   },
+   {
+      "id": 10,
+      "badge": {
+         "title": "",
+         "bg": ""
+      },
+      "image": "./images/product-10.jpg",
+      "name": "White Blonde",
+      "section": "Hair Extensions",
+      "price": 150,
+      "description": "Lorem ipsum",
+      "stars": 0,
+      "category": 1
+   },
+   {
+      "id": 11,
+      "badge": {
+         "title": "",
+         "bg": ""
+      },
+      "image": "/images/product-11.jpg",
+      "name": "Crow Lashes - Natural Volume",
+      "section": "Lashes",
+      "price": 20,
+      "description": "Lorem ipsum",
+      "stars": 4,
+      "category": 2
+   },
+   {
+      "id": 12,
+      "badge": {
+         "title": "",
+         "bg": ""
+      },
+      "image": "/images/product-12.jpg",
+      "name": "Crow Lashes - Full Volume",
+      "section": "Lashes",
+      "price": 25,
+      "description": "Lorem ipsum",
+      "stars": 4,
+      "category": 2
+   },
+   {
+      "id": 13,
+      "badge": {
+         "title": "",
+         "bg": ""
+      },
+      "image": "/images/product-13.jpg",
+      "name": "Peacock Lashes - Natural Volume",
+      "section": "Lashes",
+      "price": 20,
+      "description": "Lorem ipsum",
+      "stars": 4,
+      "category": 2
+   },
+   {
+      "id": 14,
+      "badge": {
+         "title": "Best Seller",
+         "bg": "bestseller"
+      },
+      "image": "/images/product-14.jpg",
+      "name": "Peacock Lashes - Full Volume",
+      "section": "Lashes",
+      "price": 25,
+      "description": "Lorem ipsum",
+      "stars": 4,
+      "category": 2
+   },
+   {
+      "id": 15,
+      "badge": {
+         "title": "Sale",
+         "bg": "sale"
+      },
+      "image": "/images/product-15.jpg",
+      "name": "Queen Lashes - Natural Volume",
+      "section": "Lashes",
+      "price": 18,
+      "description": "Lorem ipsum",
+      "stars": 4,
+      "category": 2
+   },
+   {
+      "id": 16,
+      "badge": {
+         "title": "",
+         "bg": ""
+      },
+      "image": "/images/product-16.jpg",
+      "name": "Queen Lashes - Full Volume",
+      "section": "Lashes",
+      "price": 25,
+      "description": "Lorem ipsum",
+      "stars": 0,
+      "category": 2
+   },
+   {
+      "id": 17,
+      "badge": {
+         "title": "Best Seller",
+         "bg": "bestseller"
+      },
+      "image": "/images/product-17.jpg",
+      "name": "Drama Queen - Natural Lashes",
+      "section": "Lashes",
+      "price": 20,
+      "description": "Lorem ipsum",
+      "stars": 5,
+      "category": 2
+   },
+   {
+      "id": 18,
+      "badge": {
+         "title": "",
+         "bg": ""
+      },
+      "image": "/images/product-18.jpg",
+      "name": "Drama Queen - Full Lashes",
+      "section": "Lashes",
+      "price": 25,
+      "description": "Lorem ipsum",
+      "stars": 4,
+      "category": 2
+   },
+   {
+      "id": 19,
+      "badge": {
+         "title": "",
+         "bg": ""
+      },
+      "image": "/images/product-19.jpg",
+      "section": "Accessories",
+      "name": "Wooden Hair Brush",
+      "price": 12,
+      "description": "Lorem ipsum",
+      "stars": 0,
+      "category": 3
+   },
+   {
+      "id": 20,
+      "badge": {
+         "title": "Sale",
+         "bg": "sale"
+      },
+      "image": "/images/product-20.jpg",
+      "name": "Extension Release Liquid",
+      "section": "Accessories",
+      "price": 12,
+      "description": "Lorem ipsum",
+      "stars": 4,
+      "category": 3
+   },
+   {
+      "id": 21,
+      "badge": {
+         "title": "",
+         "bg": ""
+      },
+      "image": "/images/product-21.jpg",
+      "name": "White Lash Adhesive",
+      "section": "Accessories",
+      "price": 15,
+      "description": "Lorem ipsum",
+      "stars": 4,
+      "category": 3
+   },
+   {
+      "id": 22,
+      "badge": {
+         "title": "",
+         "bg": ""
+      },
+      "image": "/images/product-22.jpg",
+      "name": "Lash Scissors",
+      "section": "Accessories",
+      "price": 8,
+      "description": "Lorem ipsum",
+      "stars": 4,
+      "category": 3
+   },
+   {
+      "id": 23,
+      "badge": {
+         "title": "",
+         "bg": ""
+      },
+      "image": "/images/product-23.jpg",
+      "name": "Diva Lashes - 4 Pcs Set",
+      "section": "Accessories",
+      "price": 70,
+      "description": "Lorem ipsum",
+      "stars": 0,
+      "category": 3
+   },
+   {
+      "id": 24,
+      "badge": {
+         "title": "Best Seller",
+         "bg": "bestseller"
+      },
+      "image": "/images/product-24.jpg",
+      "name": "Diva Lashes - 2 Pcs Set",
+      "section": "Accessories",
+      "price": 70,
+      "description": "Lorem ipsum",
+      "stars": 4,
+      "category": 3
+   },
+   {
+      "id": 25,
+      "badge": {
+         "title": "",
+         "bg": ""
+      },
+      "image": "/images/product-25.jpg",
+      "name": "$25 Gift Card",
+      "section": "Accessories",
+      "price": 25,
+      "description": "Lorem ipsum",
+      "stars": 4,
+      "category": 3
+   },
+   {
+      "id": 26,
+      "badge": {
+         "title": "Best Seller",
+         "bg": "bestseller"
+      },
+      "image": "/images/product-26.jpg",
+      "name": "$50 Gift Card",
+      "section": "Accessories",
+      "price": 50,
+      "description": "Lorem ipsum",
+      "stars": 5,
+      "category": 3
+   },
+   {
+      "id": 27,
+      "badge": {
+         "title": "",
+         "bg": ""
+      },
+      "image": "/images/product-27.jpg",
+      "name": "$100 Gift Card",
+      "section": "Accessories",
+      "price": 100,
+      "description": "Lorem ipsum",
+      "stars": 0,
+      "category": 3
+   }
+]
