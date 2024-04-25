@@ -220,91 +220,13 @@
     },
     {
         "id": 2,
-        "image": "./images/product-2.jpg",
-        "section": "All Products",
-        "name": "Hair Extensions"
-    },
-    {
-        "id": 3,
-        "image": "./images/product-3.jpg",
-        "section": "All Products",
-        "name": "Hair Extensions"
-    },
-    {
-        "id": 4,
-        "image": "./images/product-4.jpg",
-        "section": "All Products",
-        "name": "Hair Extensions"
-    },
-    {
-        "id": 5,
-        "image": "./images/product-5.jpg",
-        "section": "All Products",
-        "name": "Hair Extensions"
-    },
-    {
-        "id": 6,
         "image": "./images/product-6.jpg",
         "section": "All Products",
         "name": "Lashes"
     },
     {
-        "id": 7,
-        "image": "./images/product-7.jpg",
-        "section": "All Products",
-        "name": "Lashes"
-    },
-    {
-        "id": 8,
-        "image": "./images/product-8.jpg",
-        "section": "All Products",
-        "name": "Lashes"
-    },
-    {
-        "id": 9,
-        "image": "./images/product-9.jpg",
-        "section": "All Products",
-        "name": "Lashes"
-    },
-    {
-        "id": 10,
-        "image": "./images/product-10.jpg",
-        "section": "All Products",
-        "name": "Lashes"
-    },
-    {
-        "id": 11,
+        "id": 3,
         "image": "./images/product-11.jpg",
-        "section": "All Products",
-        "name": "Accessories"
-    },
-    {
-        "id": 12,
-        "image": "./images/product-12.jpg",
-        "section": "All Products",
-        "name": "Accessories"
-    },
-    {
-        "id": 13,
-        "image": "./images/product-13.jpg",
-        "section": "All Products",
-        "name": "Accessories"
-    },
-    {
-        "id": 14,
-        "image": "./images/product-14.jpg",
-        "section": "All Products",
-        "name": "Accessories"
-    },
-    {
-        "id": 15,
-        "image": "./images/product-15.jpg",
-        "section": "All Products",
-        "name": "Accessories"
-    },
-    {
-        "id": 16,
-        "image": "./images/product-16.jpg",
         "section": "All Products",
         "name": "Accessories"
     }
