@@ -1,0 +1,522 @@
+[
+    {
+       "id": 1,
+       "badge": {
+          "title": "Sale",
+          "bg": "sale"
+       },
+       "image": "./images/product-1.jpg",
+       "name": "Jet Black",
+       "price": 135,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 0,
+       "category": 1
+    },
+    {
+       "id": 2,
+       "badge": {
+          "title": "",
+          "bg": ""
+       },
+       "image": "./images/product-2.jpg",
+       "name": "Off Black",
+       "price": 150,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 5,
+       "category": 1
+    },
+    {
+       "id": 3,
+       "badge": {
+          "title": "",
+          "bg": ""
+       },
+       "image": "./images/product-3.jpg",
+       "name": "Dark Brown",
+       "price": 150,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 4,
+       "category": 1
+    },
+    {
+       "id": 4,
+       "badge": {
+          "title": "",
+          "bg": ""
+       },
+       "image": "./images/product-4.jpg",
+       "name": "Dark Chestnut Brown",
+       "price": 150,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 0,
+       "category": 1
+    },
+    {
+       "id": 5,
+       "badge": {
+          "title": "Best Seller",
+          "bg": "bestseller"
+       },
+       "image": "./images/product-5.jpg",
+       "name": "Aubrun",
+       "price": 150,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 3,
+       "category": 1
+    },
+    {
+       "id": 6,
+       "badge": {
+          "title": "",
+          "bg": ""
+       },
+       "image": "./images/product-6.jpg",
+       "name": "Amber Blonde",
+       "price": 150,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 0,
+       "category": 1
+    },
+    {
+       "id": 7,
+       "badge": {
+          "title": "Sale",
+          "bg": "sale"
+       },
+       "image": "./images/product-7.jpg",
+       "name": "Honey Blonde",
+       "price": 150,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 4,
+       "category": 1
+    },
+    {
+       "id": 8,
+       "badge": {
+          "title": "New",
+          "bg": "new"
+       },
+       "image": "./images/product-8.jpg",
+       "name": "Strawberry Blonde",
+       "price": 150,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 0,
+       "category": 1
+    },
+    {
+       "id": 9,
+       "badge": {
+          "title": "",
+          "bg": ""
+       },
+       "image": "./images/product-9.jpg",
+       "name": "Golden Blonde",
+       "price": 150,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 4,
+       "category": 1
+    },
+    {
+       "id": 10,
+       "badge": {
+          "title": "",
+          "bg": ""
+       },
+       "image": "./images/product-10.jpg",
+       "name": "White Blonde",
+       "price": 150,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 0,
+       "category": 1
+    },
+    {
+       "id": 11,
+       "badge": {
+          "title": "",
+          "bg": ""
+       },
+       "image": "./images/product-11.jpg",
+       "name": "Natural Brown Ombre",
+       "price": 120,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 4,
+       "category": 1
+    },
+    {
+       "id": 12,
+       "badge": {
+          "title": "",
+          "bg": ""
+       },
+       "image": "./images/product-12.jpg",
+       "name": "Natural Blonde Ombre",
+       "price": 150,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 0,
+       "category": 1
+    },
+    {
+       "id": 13,
+       "badge": {
+          "title": "",
+          "bg": ""
+       },
+       "image": "/images/product-13.jpg",
+       "name": "Platinum Purple Ombre",
+       "price": 150,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 0,
+       "category": 1
+    },
+    {
+       "id": 14,
+       "badge": {
+          "title": "Best Seller",
+          "bg": "bestseller"
+       },
+       "image": "/images/product-14.jpg",
+       "name": "Rose Ombre",
+       "price": 150,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 4,
+       "category": 1
+    },
+    {
+       "id": 15,
+       "badge": {
+          "title": "",
+          "bg": ""
+       },
+       "image": "/images/product-15.jpg",
+       "name": "Mint Green Ombre",
+       "price": 150,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 4,
+       "category": 1
+    },
+    {
+       "id": 16,
+       "badge": {
+          "title": "",
+          "bg": ""
+       },
+       "image": "/images/product-16.jpg",
+       "name": "Platinum Blue Ombre",
+       "price": 150,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 4,
+       "category": 1
+    },
+    {
+       "id": 17,
+       "badge": {
+          "title": "",
+          "bg": ""
+       },
+       "image": "/images/product-17.jpg",
+       "name": "Crow Lashes - Natural Volume",
+       "price": 20,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 4,
+       "category": 2
+    },
+    {
+       "id": 18,
+       "badge": {
+          "title": "",
+          "bg": ""
+       },
+       "image": "/images/product-18.jpg",
+       "name": "Crow Lashes - Full Volume",
+       "price": 25,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 4,
+       "category": 2
+    },
+    {
+       "id": 19,
+       "badge": {
+          "title": "",
+          "bg": ""
+       },
+       "image": "/images/product-19.jpg",
+       "name": "Peacock Lashes - Natural Volume",
+       "price": 20,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 4,
+       "category": 2
+    },
+    {
+       "id": 20,
+       "badge": {
+          "title": "Best Seller",
+          "bg": "bestseller"
+       },
+       "image": "/images/product-20.jpg",
+       "name": "Peacock Lashes - Full Volume",
+       "price": 25,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 4,
+       "category": 2
+    },
+    {
+       "id": 21,
+       "badge": {
+          "title": "",
+          "bg": ""
+       },
+       "image": "/images/product-21.jpg",
+       "name": "Swan Lashes - Natural Volume",
+       "price": 20,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 5,
+       "category": 2
+    },
+    {
+       "id": 22,
+       "badge": {
+          "title": "New",
+          "bg": "new"
+       },
+       "image": "/images/product-22.jpg",
+       "name": "Swan Lashes - Full Volume",
+       "price": 25,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 4,
+       "category": 2
+    },
+    {
+       "id": 23,
+       "badge": {
+          "title": "",
+          "bg": ""
+       },
+       "image": "/images/product-23.jpg",
+       "name": "Princess Lashes - Natural Volume",
+       "price": 25,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 5,
+       "category": 2
+    },
+    {
+       "id": 24,
+       "badge": {
+          "title": "",
+          "bg": ""
+       },
+       "image": "/images/product-24.jpg",
+       "name": "Princess Lashes - Full Volume",
+       "price": 25,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 4,
+       "category": 2
+    },
+    {
+       "id": 25,
+       "badge": {
+          "title": "Sale",
+          "bg": "sale"
+       },
+       "image": "/images/product-25.jpg",
+       "name": "Queen Lashes - Natural Volume",
+       "price": 18,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 4,
+       "category": 2
+    },
+    {
+       "id": 26,
+       "badge": {
+          "title": "",
+          "bg": ""
+       },
+       "image": "/images/product-26.jpg",
+       "name": "Queen Lashes - Full Volume",
+       "price": 25,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 0,
+       "category": 2
+    },
+    {
+       "id": 27,
+       "badge": {
+          "title": "Best Seller",
+          "bg": "bestseller"
+       },
+       "image": "/images/product-27.jpg",
+       "name": "Drama Queen - Natural Lashes",
+       "price": 20,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 5,
+       "category": 2
+    },
+    {
+       "id": 28,
+       "badge": {
+          "title": "",
+          "bg": ""
+       },
+       "image": "/images/product-28.jpg",
+       "name": "Drama Queen - Full Lashes",
+       "price": 25,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 4,
+       "category": 2
+    },
+    {
+       "id": 29,
+       "badge": {
+          "title": "",
+          "bg": ""
+       },
+       "image": "/images/product-29.jpg",
+       "name": "Wooden Hair Brush",
+       "price": 12,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 0,
+       "category": 3
+    },
+    {
+       "id": 30,
+       "badge": {
+          "title": "Sale",
+          "bg": "sale"
+       },
+       "image": "/images/product-30.jpg",
+       "name": "Extension Release Liquid",
+       "price": 12,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 4,
+       "category": 3
+    },
+    {
+       "id": 31,
+       "badge": {
+          "title": "",
+          "bg": ""
+       },
+       "image": "/images/product-31.jpg",
+       "name": "White Lash Adhesive",
+       "price": 15,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 4,
+       "category": 3
+    },
+    {
+       "id": 32,
+       "badge": {
+          "title": "New",
+          "bg": "new"
+       },
+       "image": "/images/product-32.jpg",
+       "name": "Black Lash Adhesive",
+       "price": 15,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 0,
+       "category": 3
+    },
+    {
+       "id": 33,
+       "badge": {
+          "title": "",
+          "bg": ""
+       },
+       "image": "/images/product-33.jpg",
+       "name": "Lash Curler",
+       "price": 10,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 4,
+       "category": 3
+    },
+    {
+       "id": 34,
+       "badge": {
+          "title": "Best Seller",
+          "bg": "bestseller"
+       },
+       "image": "/images/product-34.jpg",
+       "name": "Lash Applicator",
+       "price": 10,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 0,
+       "category": 3
+    },
+    {
+       "id": 35,
+       "badge": {
+          "title": "",
+          "bg": ""
+       },
+       "image": "/images/product-35.jpg",
+       "name": "Lash Scissors",
+       "price": 8,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 4,
+       "category": 3
+    },
+    {
+       "id": 36,
+       "badge": {
+          "title": "",
+          "bg": ""
+       },
+       "image": "/images/product-36.jpg",
+       "name": "Diva Lashes - 4 Pcs Set",
+       "price": 70,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 0,
+       "category": 3
+    },
+    {
+       "id": 37,
+       "badge": {
+          "title": "Best Seller",
+          "bg": "bestseller"
+       },
+       "image": "/images/product-37.jpg",
+       "name": "Diva Lashes - 2 Pcs Set",
+       "price": 70,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 4,
+       "category": 3
+    },
+    {
+       "id": 38,
+       "badge": {
+          "title": "",
+          "bg": ""
+       },
+       "image": "/images/product-38.jpg",
+       "name": "$25 Gift Card",
+       "price": 25,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 4,
+       "category": 3
+    },
+    {
+       "id": 39,
+       "badge": {
+          "title": "Best Seller",
+          "bg": "bestseller"
+       },
+       "image": "/images/product-39.jpg",
+       "name": "$50 Gift Card",
+       "price": 50,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 5,
+       "category": 3
+    },
+    {
+       "id": 40,
+       "badge": {
+          "title": "",
+          "bg": ""
+       },
+       "image": "/images/product-40.jpg",
+       "name": "$100 Gift Card",
+       "price": 100,
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+       "stars": 0,
+       "category": 3
+    }
+ ]
