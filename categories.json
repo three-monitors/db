@@ -1,0 +1,242 @@
+[
+    {
+       "id": 1,
+       "image": "./images/product-1.jpg",
+       "section": "All Products",
+       "name": "Hair Extensions"
+    },
+    {
+       "id": 2,
+       "image": "./images/product-2.jpg",
+       "section": "All Products",
+       "name": "Hair Extensions"
+    },
+    {
+       "id": 3,
+       "image": "./images/product-3.jpg",
+       "section": "All Products",
+       "name": "Hair Extensions"
+    },
+    {
+       "id": 4,
+       "image": "./images/product-4.jpg",
+       "section": "All Products",
+       "name": "Hair Extensions"
+    },
+    {
+       "id": 5,
+       "image": "./images/product-5.jpg",
+       "section": "All Products",
+       "name": "Hair Extensions"
+    },
+    {
+       "id": 6,
+       "image": "./images/product-7.jpg",
+       "section": "All Products",
+       "name": "Hair Extensions"
+    },
+    {
+       "id": 7,
+       "image": "./images/product-11.jpg",
+       "section": "All Products",
+       "name": "Hair Extensions"
+    },
+    {
+       "id": 8,
+       "image": "./images/product-8.jpg",
+       "section": "All Products",
+       "name": "Hair Extensions"
+    },
+    {
+       "id": 9,
+       "image": "./images/product-9.jpg",
+       "section": "All Products",
+       "name": "Hair Extensions"
+    },
+    {
+       "id": 10,
+       "image": "./images/product-10.jpg",
+       "section": "All Products",
+       "name": "Hair Extensions"
+    },
+    {
+       "id": 11,
+       "image": "./images/product-11.jpg",
+       "section": "All Products",
+       "name": "Hair Extensions"
+    },
+    {
+       "id": 12,
+       "image": "./images/product-12.jpg",
+       "section": "All Products",
+       "name": "Hair Extensions"
+    },
+    {
+       "id": 13,
+       "image": "./images/product-13.jpg",
+       "section": "All Products",
+       "name": "Hair Extensions"
+    },
+    {
+       "id": 14,
+       "image": "./images/product-14.jpg",
+       "section": "All Products",
+       "name": "Hair Extensions"
+    },
+    {
+       "id": 15,
+       "image": "./images/product-15.jpg",
+       "section": "All Products",
+       "name": "Hair Extensions"
+    },
+    {
+       "id": 16,
+       "image": "./images/product-16.jpg",
+       "section": "All Products",
+       "name": "Hair Extensions"
+    },
+    {
+       "id": 17,
+       "image": "./images/product-17.jpg",
+       "section": "All Products",
+       "name": "Lashes"
+    },
+    {
+       "id": 18,
+       "image": "./images/product-18.jpg",
+       "section": "All Products",
+       "name": "Lashes"
+    },
+    {
+       "id": 19,
+       "image": "./images/product-19.jpg",
+       "section": "All Products",
+       "name": "Lashes"
+    },
+    {
+       "id": 20,
+       "image": "./images/product-20.jpg",
+       "section": "All Products",
+       "name": "Lashes"
+    },
+    {
+       "id": 21,
+       "image": "./images/product-21.jpg",
+       "section": "All Products",
+       "name": "Lashes"
+    },
+    {
+       "id": 22,
+       "image": "./images/product-22.jpg",
+       "section": "All Products",
+       "name": "Lashes"
+    },
+    {
+       "id": 23,
+       "image": "./images/product-23.jpg",
+       "section": "All Products",
+       "name": "Lashes"
+    },
+    {
+       "id": 24,
+       "image": "./images/product-24.jpg",
+       "section": "All Products",
+       "name": "Lashes"
+    },
+    {
+       "id": 25,
+       "image": "./images/product-25.jpg",
+       "section": "All Products",
+       "name": "Lashes"
+    },
+    {
+       "id": 26,
+       "image": "./images/product-26.jpg",
+       "section": "All Products",
+       "name": "Lashes"
+    },
+    {
+       "id": 27,
+       "image": "./images/product-27.jpg",
+       "section": "All Products",
+       "name": "Lashes"
+    },
+    {
+       "id": 28,
+       "image": "./images/product-28.jpg",
+       "section": "All Products",
+       "name": "Lashes"
+    },
+    {
+       "id": 29,
+       "image": "./images/product-29.jpg",
+       "section": "All Products",
+       "name": "Accessories"
+    },
+    {
+       "id": 30,
+       "image": "./images/product-30.jpg",
+       "section": "All Products",
+       "name": "Accessories"
+    },
+    {
+       "id": 31,
+       "image": "./images/product-31.jpg",
+       "section": "All Products",
+       "name": "Accessories"
+    },
+    {
+       "id": 32,
+       "image": "./images/product-32.jpg",
+       "section": "All Products",
+       "name": "Accessories"
+    },
+    {
+       "id": 33,
+       "image": "./images/product-33.jpg",
+       "section": "All Products",
+       "name": "Accessories"
+    },
+    {
+       "id": 34,
+       "image": "./images/product-34.jpg",
+       "section": "All Products",
+       "name": "Accessories"
+    },
+    {
+       "id": 35,
+       "image": "./images/product-35.jpg",
+       "section": "All Products",
+       "name": "Accessories"
+    },
+    {
+       "id": 36,
+       "image": "./images/product-36.jpg",
+       "section": "All Products",
+       "name": "Accessories"
+    },
+    {
+       "id": 37,
+       "image": "./images/product-37.jpg",
+       "section": "All Products",
+       "name": "Accessories"
+    },
+    {
+       "id": 38,
+       "image": "./images/product-38.jpg",
+       "section": "All Products",
+       "name": "Accessories"
+    },
+    {
+       "id": 39,
+       "image": "./images/product-39.jpg",
+       "section": "All Products",
+       "name": "Accessories"
+    },
+    {
+       "id": 40,
+       "image": "./images/product-40.jpg",
+       "section": "All Products",
+       "name": "Accessories"
+    }
+ ]
